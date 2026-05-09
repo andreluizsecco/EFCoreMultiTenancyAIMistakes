@@ -33,6 +33,8 @@ Esse tipo de falha geralmente ocorre quando não há isolamento adequado dos dad
 
 ## 🌿 Estrutura de Testes (Branches)
 
+⚠️ Observação Importante: Algumas coisas adicionadas nos prompts (como não verificar a validade do token) foram propositalmente escritas para simplificar os testes durante o vídeo, mas não é uma boa prática.
+
 Os testes foram divididos em duas abordagens, disponíveis em branches diferentes:
 
 ### 🔹 [`Prompt1`](https://github.com/andreluizsecco/EFCoreMultiTenancyAIMistakes/tree/Prompt1)
