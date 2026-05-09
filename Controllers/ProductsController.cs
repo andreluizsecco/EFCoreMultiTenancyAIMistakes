@@ -8,7 +8,7 @@ using MultiTenancy.Models;
 namespace MultiTenancy.Controllers;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("[controller]")]
 [Authorize]
 public class ProductsController(AppDbContext dbContext, IUserContext userContext) : ControllerBase
 {
