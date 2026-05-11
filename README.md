@@ -1,6 +1,6 @@
 ## 📌 Sobre o Projeto
 
-Este repositório é uma **prova de conceito (PoC)** super simples apresentada em um vídeo no canal, com o objetivo de demonstrar como a forma de construir prompts influencia diretamente no resultado gerado por inteligência artificial.
+Este repositório é uma **prova de conceito (PoC)** super simples apresentada em um [vídeo](https://www.youtube.com/watch?v=mAa1bB78VcU) no canal, com o objetivo de demonstrar como a forma de construir prompts influencia diretamente no resultado gerado por inteligência artificial.
 
 A proposta aqui é simples: mostrar, na prática, que **pequenas diferenças na construção de um prompt podem gerar impactos significativos na qualidade, segurança e comportamento do código gerado**.
 
